@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+}
+
+.container {
+    padding: 0;
+    background-color: white;
+}
+.block {
+    padding: 15px 25px;
+}
+
+#nav-name {
+    background-color: red;
+    font-size: 24;
+    padding:  15px 25px;
+}
+
+#about-image {
+    float: left;
+    margin: 0 25px 10px 0;
+}
