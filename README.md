@@ -1,5 +1,2 @@
 # Responsive-Portfolio
-HW 2 Part-2
-
-
-Part 2 of the second homework assignment
+This is my portfolio. This will showcase my work and hopefully tell you a little about me.
